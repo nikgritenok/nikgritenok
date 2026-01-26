@@ -7,7 +7,7 @@
 
 ### :man_technologist: About me:
 
-I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Now I am studying in KemSU on the 2nd year, most of all I am interested in web-development and web3. It is these directions that I like, because they allow me to make my own commercial project. Well, for now the goal is to tighten my knowledge and get an internship.
+I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 
 <p align="center">
