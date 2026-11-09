@@ -13,6 +13,10 @@ Service for equipment maintenance requests. Eleven Sequelize migrations, nginx i
 **[express-app](https://github.com/nikgritenok/express-app)**  
 Backend starter I built for a hackathon: Express 5, strict TypeScript, Prisma, Zod schemas that generate the OpenAPI spec, Scalar docs, Vitest. The README takes a person who has never used Docker from a clean laptop to a running database.
 
+## Awards
+
+**Winner, IT-KOR 5.0 hackathon (Rosatom), October 2026.** Case: maintenance requests for wind turbines. Four-person team; my eight merged pull requests cover the request workflow, the turbine monitoring hooks, the dashboard for the site manager and the one-command startup. Code: [HACKATHON-ROSATOM/hack](https://github.com/HACKATHON-ROSATOM/hack).
+
 ## Stack
 
 TypeScript, JavaScript, Vue and Nuxt, Node, Express, PostgreSQL, Prisma, Sequelize, Docker, GitHub Actions. Python when the task calls for it.
