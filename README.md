@@ -25,4 +25,4 @@ Project READMEs are in Russian. Ask me anything in English.
 
 ## Contact
 
-Telegram [@nikgritenok](https://t.me/nikgritenok) · [nikitagritsenkowork@gmail.com](mailto:nikitagritsenkowork@gmail.com)
+Telegram [@nikgritenok](https://t.me/nikgritenok) · [nik.gretsenko1@gmail.com](mailto:nik.gretsenko1@gmail.com)
