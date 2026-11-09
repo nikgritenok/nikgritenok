@@ -21,7 +21,7 @@ TypeScript, JavaScript, Vue and Nuxt, Node, Express, PostgreSQL, Prisma, Sequeli
 
 I build with AI agents and review every line before it lands. Most of the 2026 work here came out of that loop, which is why the commit history is short and the diffs are large. Happy to walk through any file: the retry and fallback logic in the idea-factory pipeline, or the PDF cache versioning in atom-case-2.
 
-Project READMEs are in Russian. Ask me anything in English.
+READMEs here are in English; some repos keep their longer Russian notes below the fold.
 
 ## Contact
 
