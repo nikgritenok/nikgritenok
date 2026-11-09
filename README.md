@@ -15,7 +15,9 @@ Backend starter I built for a hackathon: Express 5, strict TypeScript, Prisma, Z
 
 ## Awards
 
-**Winner, IT-KOR 5.0 hackathon (Rosatom), October 2026.** Case: maintenance requests for wind turbines. Four-person team; my eight merged pull requests cover the request workflow, the turbine monitoring hooks, the dashboard for the site manager and the one-command startup. Code: [HACKATHON-ROSATOM/hack](https://github.com/HACKATHON-ROSATOM/hack).
+**1st place, IT-KOR 5.0 hackathon (Rosatom), October 2026.** Web development track (JS), team «Отцы дедлайнов». Case: maintenance requests for wind turbines. Four-person team; my eight merged pull requests cover the request workflow, the turbine monitoring hooks, the dashboard for the site manager and the one-command startup.
+
+[Diploma](assets/it-kor-5-diploma.jpg) · [Code](https://github.com/HACKATHON-ROSATOM/hack)
 
 ## Stack
 
