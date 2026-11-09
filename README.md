@@ -1,44 +1,28 @@
+# Никита Гриценко
 
-# Hi, my name in Nikita!
+Master's student in Kemerovo. I build web apps and the automation behind them: Nuxt and TypeScript on the front, Node and PostgreSQL on the back, LLM agents and n8n when a process should run without me.
 
-![](https://komarev.com/ghpvc/?username=nikgritenok)
+## Projects
 
----
+**[idea-factory](https://github.com/nikgritenok/idea-factory)**
+Turns a raw idea, typed or dictated, into a report with an effect estimate and a go/no-go. Seven stages, five of them LLM roles in sequence; the effect calculation and the report assembly are deterministic code, so the numbers don't depend on a model's mood. The stage list lives in config, not in the UI, so the pipeline changes without a deploy. Nuxt, PostgreSQL, typed contracts on every model call.
 
-### :man_technologist: About me:
+**[atom-case-2](https://github.com/nikgritenok/atom-case-2)**
+Service for equipment maintenance requests. Eleven Sequelize migrations, nginx in front, Prometheus and Grafana inside, a request id that follows a call through logs and metrics, tests and CI on every pull request.
 
-I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+**[express-app](https://github.com/nikgritenok/express-app)**
+Backend starter I built for a hackathon: Express 5, strict TypeScript, Prisma, Zod schemas that generate the OpenAPI spec, Scalar docs, Vitest. The README takes a person who has never used Docker from a clean laptop to a running database.
 
+## Stack
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/nikgritenok/GritsenkoNikita/output/snake.svg" alt="Snake animation" />
-</p>
+TypeScript, JavaScript, Vue and Nuxt, Node, Express, PostgreSQL, Prisma, Sequelize, Docker, GitHub Actions. Python when the task calls for it.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikgritenok) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitagritsenkowork@gmail.com)
+## How I work
 
----
+I build with AI agents and review every line before it lands. Most of the 2026 work here came out of that loop, which is why the commit history is short and the diffs are large. Happy to walk through any file: the retry and fallback logic in the idea-factory pipeline, or the PDF cache versioning in atom-case-2.
 
-### 💻 Skills:
+Project READMEs are in Russian. Ask me anything in English.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-</p>
+## Contact
 
----
-
-### 💻 Leetcode:
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nikgritenok)](https://leetcode.com/nikgritenok)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=nikgritenok&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikgritenok&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+Telegram [@nikgritenok](https://t.me/nikgritenok) · [nikitagritsenkowork@gmail.com](mailto:nikitagritsenkowork@gmail.com)
