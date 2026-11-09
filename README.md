@@ -32,3 +32,7 @@ READMEs are in English. Longer Russian notes, where a project has them, live in 
 ## Contact
 
 Telegram [@nikgritenok](https://t.me/nikgritenok) · [nik.gretsenko1@gmail.com](mailto:nik.gretsenko1@gmail.com)
+
+## License
+
+MIT, see [LICENSE](LICENSE).
